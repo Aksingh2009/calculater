@@ -14,3 +14,5 @@ Check out my code snippet below and let me know what you think! I appreciate any
 
 Tags:
 #Java #Programming #SoftwareDevelopment #Coding #Calculator #JavaProjects #LearnToCode #Tech #ProgrammingSkills #DeveloperJourney
+#use basic java in this project
+
